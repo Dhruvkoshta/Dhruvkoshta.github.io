@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, C++**
 
-- 👨‍💻 All of my projects are available at [https://dhruvkoshta.github.io/projects](https://dhruvkoshta.github.io/projects)
+- 👨‍💻 All of my projects are available at [https://dhruvkoshta.github.io/](https://dhruvkoshta.github.io/)
 
 - 📝 I regularly write articles on [https://dhruvkoshta.github.io/](https://dhruvkoshta.github.io/)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **Dhruvkoshta@gmail.com**
 
-- 📄 Know about my experiences [https://dhruvkoshta.github.io/techStack](https://dhruvkoshta.github.io/techStack)
+- 📄 Know about my experiences [https://dhruvkoshta.github.io/](https://dhruvkoshta.github.io/)
 
 - ⚡ Fun fact **I think i am Funny and Boaring🤔🤔**
 
